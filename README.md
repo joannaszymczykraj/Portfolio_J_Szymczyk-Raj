@@ -125,7 +125,7 @@ __________________________________________________________
     
 __________________________________________________________
 
-## :see_no_evil: hear_no_evil: :speak_no_evil: Group of Facebook *that interest me*
+## :see_no_evil: :hear_no_evil: :speak_no_evil: Group of Facebook *that interest me*
 __________________________________________________________
 
 :star: Mamo pracuj w IT
