@@ -23,6 +23,8 @@ I feel that as a manual tester I will find what I am looking for - <b>passion, b
 <p></p>
 In the future I would like to develop to quality assurance especially around  such technologies as <b>databases, rest API, moving towards automatic testing.</b>
 
+__________________________________________________________
+
 ## :muscle: Experience
 <p></p>
 I am gradually developing and gaining experience as a software tester.
@@ -60,5 +62,90 @@ __________________________________________________________
 
 ### :point_right:  Based on my own preparation, I passed <b>_the ISTQB Foundation Level Certificate_</b>
 
+__________________________________________________________
 
-##
+## :hammer: Tools 
+
+:pushpin: PyCharm
+:pushpin: XPath basic
+:pushpin: Selenium WebDriver basic
+:pushpin: Python + robot framework basic
+:pushpin: Jira   
+:pushpin: mySQL  
+:pushpin: Chrome Devtools 
+:pushpin: Postman   
+:pushpin: GitHub
+:pushpin: HTML/CSS
+:pushpin: Xampp<
+:pushpin: Slack 
+
+
+### Tech skills
+
+<div>
+<li>Software testing</li>
+<li>Creating test cases</li>
+<li>Reporting bugs</li>
+
+</div>
+
+## Courses
+
+<div>
+  <li><b>DareIT Challenge - Become a manual tester</b> - 7-weeks courses of a manual testing</li>
+<li>The Basics of Manual Software Testing - Udemy</li>
+<li>Practical software testing course - Udemy</li>
+<li>SQL courses from scratch - MySQL - Udemy</li>
+<li>Postman from scratch - REST API testing - Udemy</li>
+<li>Jira from scratch course - project management - Udemy</li>
+<li>6-day HTML/CSS Marathon from GoIT</li>
+
+<div/>
+  
+## Books *read* 
+ 
+<div>
+  
+  <li>Smilgin R., <i><b>Zawód tester. Od decyzji do zdobycia doświadczenia</i></b>, 2018</li>
+  <li>Roman A., Stapp L., <i><b>Certyfikowany tester ISTQB</i></b>, 2022</li>  
+  <li>Szafraniec W., <i><b>ABC testowania oprogramowania</i></b>, 2020</li>
+  <li> <i><b>Certyfikowany tester. Sylabus poziomu podstawowego ISTQB</i></b>, version 2018v 3.1.1.</li>
+    
+<div/>
+  
+## Group of Facebook *that interest me*
+ 
+  <div>
+    
+<li>Tester oprogramowania - wsparcie na starcie</li>
+<li>Testowanie oprogramowania (by Piotr Wicherski)</li>
+<li>Testowanie oprogramowania - Materiały i Porady</li>
+<li>Test:Fest</li>
+<li>Testuj, Dziewczyno</li>
+<li>Mamo pracuj w IT</li>
+<li>Dare IT Community</li>
+    <li>Cherry-it</li>
+<li>Girls who test</li>
+  </div>
+  
+## Blogs/Websites about testing *that interest me*
+
+  <div>
+ <li>testerzy.pl</li>
+ <li>guru99.com</li>
+ <li>wyszkolewas.com.pl</li>
+ <li>cherry-it.pl</li>
+ <li>PrasówQA</li>
+ <li>Majka Testerka</li>
+ <li>AkademiaQA</li>
+    
+  </div>
+  
+## Conferences *I am going to attend (I have tickets)*
+  
+  <div>
+    <li>Test:Fest Wroclaw Testing Conferences 2023</li>
+    <li>Warszawskie Dni Informatyki 2023</li>
+  </div>
+  
+  
