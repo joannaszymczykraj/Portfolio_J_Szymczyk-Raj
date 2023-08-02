@@ -33,7 +33,19 @@ __________________________________________________________
 
 ### :bell: Dare IT Challenges Automated Tests + Python
 <p></p>
-<b>knowledge and experience in the field of</b>: <p></p>:pushpin: basics of automation testing using Selenium WebDriver, <p></p>:pushpin:xPath, <p></p>:pushpin:Python and robot framework.
+<b>knowledge and experience in the field of</b>: <p></p>:pushpin: basics of automation testing using Selenium WebDriver, <p></p>:pushpin:xPath, <p></p>:pushpin:Python and robot framework.<p></p>
+<p></p>
+<p></p>
+<p></p>
+<details>
+ <p></p>
+ <p></p>
+<p><summary>:mag_right: :mag_right: :mag_right:<b> HERE YOU WILL FIND A LINK TO MY REPOSITORY FOR THIS PROJECT:</b></summary> https://github.com/joannaszymczykraj/DareIT_Challenges_Automatyzacja-Python.git
+</details></p>
+<p></p>
+<p></p>
+<p></p>
+
 
 ### :bell: Cherry IT training project
 <p></p>
@@ -46,7 +58,7 @@ __________________________________________________________
 
 <p></p>
 
-### :point_right: Based on my own preparation, I passed <b>_the ISTQB Foundation Level Certificate_</b>
+### :point_right:  Based on my own preparation, I passed <b>_the ISTQB Foundation Level Certificate_</b>
 
 
 ##
