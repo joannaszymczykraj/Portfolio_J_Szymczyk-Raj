@@ -24,4 +24,29 @@ I feel that as a manual tester I will find what I am looking for - <b>passion, b
 In the future I would like to develop to quality assurance especially around  such technologies as <b>databases, rest API, moving towards automatic testing.</b>
 
 ## :muscle: Experience
+<p></p>
+I am gradually developing and gaining experience as a software tester.
 
+__________________________________________________________
+I was involved in the following projects:
+__________________________________________________________
+
+### :bell: Dare IT Challenges Automated Tests + Python
+<p></p>
+<b>knowledge and experience in the field of</b>: <p></p>:pushpin: basics of automation testing using Selenium WebDriver, <p></p>:pushpin:xPath, <p></p>:pushpin:Python and robot framework.
+
+### :bell: Cherry IT training project
+<p></p>
+<b>knowledge and experience in the field of</b>: 
+<p></p>:pushpin: exploratory testing, <p></p>:pushpin: creating test cases, <p></p>:pushpin: reporting bugs, <p></p>:pushpin: using the Devtools tool.
+
+### :bell: Dare IT Challenges Manual Testing
+<p></p>
+<b>knowledge and experience in the field of</b>: <p></p>:pushpin: manual testing, <p></p>:pushpin: mobile and web applications, <p></p>:pushpin: exploratory testing and specification-based testing, <p></p>:pushpin: creating test cases and test plans, <p></p>:pushpin: defect reporting, <p></p>:pushpin: test report creation.
+
+<p></p>
+
+### :point_right: Based on my own preparation, I passed <b>_the ISTQB Foundation Level Certificate_</b>
+
+
+##
