@@ -66,41 +66,42 @@ __________________________________________________________
 
 ## :hammer: Tools 
 
-:pushpin: PyCharm
-:pushpin: XPath basic
-:pushpin: Selenium WebDriver basic
-:pushpin: Python + robot framework basic
-:pushpin: Jira   
-:pushpin: mySQL  
-:pushpin: Chrome Devtools 
-:pushpin: Postman   
-:pushpin: GitHub
-:pushpin: HTML/CSS
-:pushpin: Xampp<
-:pushpin: Slack 
+:fast_forward:  PyCharm
+:fast_forward:  XPath basic
+:fast_forward:  Selenium WebDriver basic
+:fast_forward:  Jira   
+:fast_forward:  Chrome Devtools 
+:fast_forward:  Postman   
+:fast_forward:  GitHub
+:fast_forward:  Xampp
+:fast_forward:  Slack 
+:fast_forward:  Screenpresso
+
+__________________________________________________________
+
+## :computer: Technologies
+
+:arrow_forward: Python + robot framework basic
+:arrow_forward: mySQL 
+:arrow_forward: HTML/CSS
+:arrow_forward: Android
+
+__________________________________________________________
 
 
-### Tech skills
+## :alarm_clock: Courses
 
-<div>
-<li>Software testing</li>
-<li>Creating test cases</li>
-<li>Reporting bugs</li>
+### :eight_spoked_asterisk: Dare IT Challenges - Introduction to automated testing + Python 7-weeks courses with Selenium WebDriver Automation Testing + Python i robot framework
+### :eight_spoked_asterisk: Cherry IT - training project - manual testing based on devtools and exploratory testing
+### :eight_spoked_asterisk: uTest Academy - start learning
+### :eight_spoked_asterisk: DareIT Challenges - Become a manual tester</b> - 7-weeks courses of a manual testing
+### :eight_spoked_asterisk: The Basics of Manual Software Testing - Udemy
+### :eight_spoked_asterisk: Practical software testing course - Udemy
+### :eight_spoked_asterisk: SQL courses from scratch - MySQL - Udemy
+### :eight_spoked_asterisk: Postman from scratch - REST API testing - Udemy
+### :eight_spoked_asterisk: Jira from scratch course - project management - Udemy
+### :eight_spoked_asterisk: 6-day HTML/CSS Marathon from GoIT
 
-</div>
-
-## Courses
-
-<div>
-  <li><b>DareIT Challenge - Become a manual tester</b> - 7-weeks courses of a manual testing</li>
-<li>The Basics of Manual Software Testing - Udemy</li>
-<li>Practical software testing course - Udemy</li>
-<li>SQL courses from scratch - MySQL - Udemy</li>
-<li>Postman from scratch - REST API testing - Udemy</li>
-<li>Jira from scratch course - project management - Udemy</li>
-<li>6-day HTML/CSS Marathon from GoIT</li>
-
-<div/>
   
 ## Books *read* 
  
