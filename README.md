@@ -25,6 +25,11 @@ In the future I would like to develop to quality assurance especially around  su
 
 __________________________________________________________
 
+#### :sparkles: Find out more about me - visit my profile on LinkedIn: :sparkles:
+https://www.linkedin.com/in/joanna-szymczyk-raj-32279ab9/
+__________________________________________________________
+
+
 ## :muscle: Experience
 <p></p>
 I am gradually developing and gaining experience as a software tester.
@@ -74,10 +79,10 @@ __________________________________________________________
 :fast_forward:  PyCharm
 :fast_forward:  XPath basic
 :fast_forward:  Selenium WebDriver basic
-:fast_forward:  Jira   
+<p></p> :fast_forward:  Jira   
 :fast_forward:  Chrome Devtools 
 :fast_forward:  Postman   
-:fast_forward:  GitHub
+<p></p> :fast_forward:  GitHub
 :fast_forward:  Xampp
 :fast_forward:  Slack 
 :fast_forward:  Screenpresso
@@ -88,7 +93,7 @@ __________________________________________________________
 
 :arrow_forward: Python + robot framework basic
 :arrow_forward: mySQL 
-:arrow_forward: HTML/CSS
+<p></p> :arrow_forward: HTML/CSS
 :arrow_forward: Android
 
 __________________________________________________________
@@ -147,12 +152,16 @@ __________________________________________________________
 
 __________________________________________________________    
   
-## Conferences *I am going to attend*
+## :star2: Conferences *in which I participated*
 __________________________________________________________
 
-  
-Test:Fest Wroclaw Testing Conferences 2023
-Warszawskie Dni Informatyki 2023
- 
+:fire: <b>Konferencja Na Podbój IT (SJSI)</b>  / 27.05.2023 Kraków
+<p></p> :fire: :fire: :fire: <b>Test:Fest Wroclaw Testing Conferences 2023</b> / 11.03 Wrocław
+<p></p> :fire: <b>Warszawskie Dni Informatyki 2023</b> / 30.03-01.04 Warszawa
+<p></p> :fire: <b>WarszawQA</b> / 08.03 Warszawa
+
+
+
+
   
   
