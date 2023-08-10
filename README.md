@@ -66,7 +66,7 @@ __________________________________________________________
 
 ### :bell: Dare IT Challenges Manual Testing
 <p></p>
-<b>knowledge and experience in the field of</b>: <p></p>:pushpin: manual testing, <p></p>:pushpin: mobile and web applications, <p></p>:pushpin: exploratory testing and specification-based testing, <p></p>:pushpin: creating test cases and test plans, <p></p>:pushpin: defect reporting, <p></p>:pushpin: test report creation.
+<b>knowledge and experience in the field of</b>: <p></p>:pushpin: manual testing, <p></p>:pushpin: testing mobile and web applications, <p></p>:pushpin: exploratory testing and specification-based testing, <p></p>:pushpin: creating test cases and test plans, <p></p>:pushpin: defect reporting, <p></p>:pushpin: test report creation,<p></p> :pushpin: DevTools, <p></p>:pushpin: writing SQL queries in MySql Server (including: table data modifications, table modifications, table merging)<p></p>
 
 <p></p>
 
