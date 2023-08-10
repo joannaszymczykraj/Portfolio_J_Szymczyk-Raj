@@ -199,7 +199,44 @@ __________________________________________________________
 
 :fire: <b>Konferencja Na Podbój IT (SJSI)</b>  / 27.05.2023 Kraków
 <p></p> :fire: :fire: :fire: <b>Test:Fest Wroclaw Testing Conferences 2023</b> / 11.03 Wrocław
+<p></p>
+<div>
+<li>Sustainability – the new quality characteristic (EN)</li>
+<i>Rik Marselis</i>
+
+ <li>UAT Journey (PL)</li>
+<i>Aleksandra Germańska & Monika Lichota- Cywińska</i>
+
+<li>Testy wizualne – przyjrzymy się im z bliska (PL)</li>
+<i>Mateusz Błoch</i>
+
+<li>Dlaczego musisz zautomatyzować testy dostępności i dlaczego to nie wystarczy? (PL)</li>
+<i>Tomasz Bonior</i>
+
+<li>Gdy innym się nie chce… a mi się chce za bardzo (PL)</li>
+<i>Justyna Owczarek</i>
+
+<li>W jaki sposób nauka umiejętności interpersonalnych różni się od nauki umiejętności technicznych? Dlaczego coraz więcej firm w pakiecie daje psychoterapię? I co te dwa pytania mają ze sobą wspólnego? (PL)</li>
+<i>Piotr Podskarbi</i>
+
+<li>Atlassian approach to quality. Shift left and Quality Engineering (EN)</li>
+<i>Jakub Cegiel</i>
+
+<li>Mity kultury devops i ich znaczenie dla społeczności testerów (PL)</li>
+<i>Piotr Wieczorek</i>
+
+<li>Zautomatyzuj nie tylko testy! (PL)</li>
+<i>Przemysław Libudzic</i>
+
+<li>Porzućcie wszelką nadzieję, Wy, którzy tu wchodzicie (PL)</li>
+<i>Tomasz Dubikowski</i>
+</div>
+ <p></p>
+
 <p></p> :fire: <b>Warszawskie Dni Informatyki 2023</b> / 30.03-01.04 Warszawa
+<p></p>
+
+
 <p></p> :fire: <b>WarszawQA</b> / 08.03 Warszawa
 
 
