@@ -62,7 +62,7 @@ __________________________________________________________
 ### :bell: Cherry IT training project
 <p></p>
 <b>knowledge and experience in the field of</b>: 
-<p></p>:pushpin: exploratory testing, <p></p>:pushpin: creating test cases, <p></p>:pushpin: reporting bugs, <p></p>:pushpin: using the Devtools tool.
+<p></p>:pushpin: exploratory testing, <p></p>:pushpin: creating test cases, <p></p>:pushpin: reporting bugs, <p></p>:pushpin: using the Devtools.
 
 ### :bell: Dare IT Challenges Manual Testing
 <p></p>
@@ -112,7 +112,7 @@ https://docs.google.com/spreadsheets/d/1EeizUIlFFhEe095Mdyo65D1_0nDS2WF2/edit?us
 
 <p></p>
 
-### :point_right:  Based on my own preparation, I passed <b>_the ISTQB Foundation Level Certificate_</b>
+### :point_right:  Based on my own preparation, I passed <b>_the ISTQB Foundation Level Certificate_ (No20108/CTFL/2023)</b>
 
 __________________________________________________________
 
