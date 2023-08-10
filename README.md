@@ -70,6 +70,48 @@ __________________________________________________________
 
 <p></p>
 
+### :point_right: During the project I worked on the following applications:
+<p></p>
+
+#### :one: www.futbolkolektyw.pl
+<p></p>
+
+<b>Testing based on test cases:</b>
+
+<b>:grey_exclamation: Link to TEST CASES:</b>
+<p></p>
+https://docs.google.com/spreadsheets/d/1yquAIiny1J6HeIlKY7xnPNhlCQbaNuG1/edit?usp=share_link&ouid=109087150345702217098&rtpof=true&sd=true
+<p></p>
+<b> :grey_exclamation: Link to BUG REPORT:</b>
+<p></p>
+https://docs.google.com/spreadsheets/d/1dQ8uGxsHPw4o7lnRP5SExDU3HHVipiWD/edit?usp=share_link&ouid=109087150345702217098&rtpof=true&sd=true
+<p></p>
+<b> :grey_exclamation: Link to TEST REPORT:</b>
+<p></p>
+https://docs.google.com/document/d/1Fhc_v_SGABdbyHv936b5VrzHxxQ_Xlkt/edit?usp=share_link&ouid=109087150345702217098&rtpof=true&sd=true
+<p></p>
+<b>Exploration session based on Intellectual Tour:</b>
+<p></p>
+<b> :grey_exclamation: Link to BUG REPORT:</b>
+<p></p>
+https://docs.google.com/document/d/1Wt2GUCyX9gKgvw5xaHhwNyhtu5z7ydNr/edit?usp=share_link&ouid=109087150345702217098&rtpof=true&sd=true
+<p></p>
+
+#### :two: OLX (mobile app)
+<p></p>
+<b> :grey_exclamation: Link to BUG REPORT (exploratory testing):</b>
+<p></p>
+https://docs.google.com/spreadsheets/d/1x1DVWFnz6PyFapG01XsSVQezyhPIhXpi/edit?usp=share_link&ouid=109087150345702217098&rtpof=true&sd=true
+
+#### :three: Pick eat up (mobile app)
+<p></p>
+<b> :grey_exclamation: Link to TEST CASES:</b>
+<p></p>
+https://docs.google.com/spreadsheets/d/1EeizUIlFFhEe095Mdyo65D1_0nDS2WF2/edit?usp=share_link&ouid=109087150345702217098&rtpof=true&sd=true
+
+
+<p></p>
+
 ### :point_right:  Based on my own preparation, I passed <b>_the ISTQB Foundation Level Certificate_</b>
 
 __________________________________________________________
