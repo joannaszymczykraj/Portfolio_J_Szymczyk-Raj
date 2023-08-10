@@ -198,6 +198,34 @@ __________________________________________________________
 __________________________________________________________
 
 :fire: <b>Konferencja Na Podbój IT (SJSI)</b>  / 27.05.2023 Kraków
+
+<p></p> :fire: <b>Warszawskie Dni Informatyki 2023</b> / 30.03-01.04 Warszawa
+<p></p>
+
+<div>
+<li>Voice Assistant Tests: A story about linguistics and software engineering</li>
+<i>Marcin Walas - Head of Bixby Product Management Group in Samsung R&D Poland
+Samsung R&D Institute Poland</i>
+
+<li>Automatyzacja Testów : Co widać a czego nie widać</li>
+<i>Łukasz Brola - Kierujący Wydziałem Testów i Zapewnienia Jakości Bank Millennium</i>
+
+<li>Testy wydajnościowe w chmurze z wykorzystaniem jMeter i Azure Load Testing</li>
+<i>Hubert Chylik - Software Engineering Lead Nationale-Nederlanden</i>
+
+<li>Testy wydajnościowe aplikacji webowych i mobilnych przy pomocy Locust.io</li>
+<i>Jan Sabak - Menedżer Działu Testowania Oprogramowania AmberTeam Testing Sp. z o.o.</i>
+
+<li>TMMi i TPI Next - Popraw Twój Proces Testowy</li>
+<i>Anna Miazek - QA Manager Divante</i>
+
+<li>Podstawy accessibility testing - czy jest to w ogóle potrzebne?</li>
+<i>Tomasz Szyrner - QA Engineer Selleo</i>
+
+<li>Zaawansowane testy w Unity</li>
+<i>Artur "ekhart" Dębkowski</i>
+</div>
+
 <p></p> :fire: :fire: :fire: <b>Test:Fest Wroclaw Testing Conferences 2023</b> / 11.03 Wrocław
 <p></p>
 <div>
@@ -231,12 +259,7 @@ __________________________________________________________
 <li>Porzućcie wszelką nadzieję, Wy, którzy tu wchodzicie (PL)</li>
 <i>Tomasz Dubikowski</i>
 </div>
- <p></p>
-
-<p></p> :fire: <b>Warszawskie Dni Informatyki 2023</b> / 30.03-01.04 Warszawa
 <p></p>
-
-
 <p></p> :fire: <b>WarszawQA</b> / 08.03 Warszawa
 
 
