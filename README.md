@@ -26,7 +26,7 @@ In the future I would like to develop to quality assurance especially around  su
 __________________________________________________________
 
 #### :sparkles: Find out more about me - visit my profile on LinkedIn: :sparkles:
-https://www.linkedin.com/in/joanna-szymczyk-raj-32279ab9/
+www.linkedin.com/in/joanna-szymczyk-raj
 __________________________________________________________
 
 
