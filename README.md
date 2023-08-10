@@ -160,10 +160,13 @@ __________________________________________________________
 __________________________________________________________
 <p></p>
 
- <p> :eight_pointed_black_star: Smilgin R., <i><b>Zawód tester. Od decyzji do zdobycia doświadczenia</i></b>, 2018</p> 
+<p> :eight_pointed_black_star:  <i><b>Certyfikowany tester. Sylabus poziomu podstawowego ISTQB</i></b>, version 2018v 3.1.1.</p>
+<p> :eight_pointed_black_star: Smilgin R., <i><b>Zawód tester. Od decyzji do zdobycia doświadczenia</i></b>, 2018</p> 
 <p> :eight_pointed_black_star: Roman A., Stapp L., <i><b>Certyfikowany tester ISTQB</i></b>, 2022 </p>  
+<p> :eight_pointed_black_star: Jadczyk K., <i><b>Pasja Testowania</b></i>, 2021 </p>
+<p> :eight_pointed_black_star: Podraza R., <i><b>Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach</b></i>, 2023 </p>
 <p></p> :eight_pointed_black_star: Szafraniec W., <i><b>ABC testowania oprogramowania</i></b>, 2020
-<p></p> :eight_pointed_black_star:  <i><b>Certyfikowany tester. Sylabus poziomu podstawowego ISTQB</i></b>, version 2018v 3.1.1.
+
     
 __________________________________________________________
 
