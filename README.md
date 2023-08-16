@@ -1,5 +1,37 @@
 # Software Tester Portfolio - Joanna Szymczyk-Raj
 
+<p></p>
+
+### :loop: Table of contents <p></p>
+ :eight_spoked_asterisk: <b>[About me](#sparkles-about-me)</b> <p></p>
+ :small_orange_diamond: [My profile on <b>LinkedIn:</b>](#sparkles-find-out-more-about-me---visit-my-profile-on-linkedin-sparkles)<p></p>
+
+ :eight_spoked_asterisk: <b>[Experience ](#muscle-experience)</b> <p></p>
+ :small_orange_diamond: [Dare IT Challenges Automated Tests + Python](#bell-dare-it-challenges-automated-tests--python)<p></p>
+ [My <b>repository</b> of this Project](#mag_right-mag_right-mag_right-here-you-will-find-a-link-to-my-repository-for-this-project)<p></p>
+ :small_orange_diamond: [Cherry IT training project](#bell-cherry-it-training-project)<p></p>
+ :small_orange_diamond: [Dare IT Challenges Manual Testing](#bell-dare-it-challenges-manual-testing)<p></p>
+
+ :eight_spoked_asterisk: <b>[Tools](#hammer-tools)</b> <p></p>
+
+ :eight_spoked_asterisk: <b>[Technologies](#computer-technologies)</b> <p></p>
+
+ :eight_spoked_asterisk: <b>[Courses](#alarm_clock-courses)</b> <p></p>
+
+ :eight_spoked_asterisk: <b>[Books read](#closed_book-book-books-read)</b> <p></p>
+
+ :eight_spoked_asterisk: <b>[Group of Facebook that interest me](#see_no_evil-hear_no_evil-speak_no_evil-group-of-facebook-that-interest-me)</b> <p></p>
+
+ :eight_spoked_asterisk: <b>[Blogs/Websites about testing that interest me](#metal-blogswebsites-about-testing-that-interest-me)</b> <p></p>
+
+ :eight_spoked_asterisk: <b>[Conferences in which I participated](#star2-conferences-in-which-i-participated)</b> <p></p>
+
+__________________________________________________________
+
+<p></p>
+<p></p>
+<p></p>
+
 ## :sparkles: About me
 
 <b>Hello World,</b><p></p>
@@ -266,7 +298,14 @@ Samsung R&D Institute Poland</i>
 <p></p> :fire: <b>WarszawQA</b> / 08.03 Warszawa
 
 
+__________________________________________________________
+
+<p></p>
+<p></p>
+
+##  :tada: It's over - :four_leaf_clover: Thank you for your interest :four_leaf_clover:
+
+__________________________________________________________
 
 
-  
   
