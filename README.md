@@ -1,6 +1,12 @@
-# Software Tester Portfolio - Joanna Szymczyk-Raj
+#  <u>:sparkles: Software Tester Portfolio :sparkles: - <p></p>Joanna Szymczyk-Raj</u> 
+____________________________________
 
 <p></p>
+<p></p>
+<p></p>
+
+
+
 
 ### :loop: Table of contents <p></p>
  :eight_spoked_asterisk: <b>[About me](#sparkles-about-me)</b> <p></p>
